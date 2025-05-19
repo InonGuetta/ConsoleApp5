@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drill.cs" />
+    <Compile Include="functions.cs" />
     <Compile Include="Hammer.cs" />
     <Compile Include="Pipecutter.cs" />
     <Compile Include="Saw.cs" />
